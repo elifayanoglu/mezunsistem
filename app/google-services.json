@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "5598395085",
+    "project_id": "mezunsistem",
+    "storage_bucket": "mezunsistem.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5598395085:android:60ae7dbb83e00e864ec784",
+        "android_client_info": {
+          "package_name": "com.example.mezunsistem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "5598395085-5bsdccjlepk8h1l7uo4orh9o9on3c9e3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mezunsistem",
+            "certificate_hash": "3dd8b00c92f889ebc54aee4f32ab6d590c34cdd7"
+          }
+        },
+        {
+          "client_id": "5598395085-f84lubhtea4jehfrfnc8vj54kqie3i0f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCleERY2-tXP2yuKjdrqGv0R6iM2afOrRU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "5598395085-f84lubhtea4jehfrfnc8vj54kqie3i0f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
