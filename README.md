@@ -26,5 +26,5 @@ Screens and features in the application:
 **5- Edit Profile Screen:** This is the screen where the user can update their personal information.  
 **6- Announcements:** The screen where the information shares made by the users who are members of the platform are displayed.  
 **7- Add Announcement Screen:** The screen that allows the current user to add an announcement to the announcements screen.  
-**8- Users Screen: The screen where users who are members of the platform are listed. If you click on any user on this screen, it is possible to view that user's profile page.  
+**8- Users Screen:** The screen where users who are members of the platform are listed. If you click on any user on this screen, it is possible to view that user's profile page.  
 **9- Change Password Screen:** The current password can be changed with a new one from this screen.
