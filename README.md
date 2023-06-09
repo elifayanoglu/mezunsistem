@@ -15,7 +15,7 @@ Uygulamada bulunan ekranlar ve özellikleri:
 **9- Şifre Değiştir Ekranı:** Bu ekrandan mevcut şifre, yenisiyle değiştirilebilmektedir.
 
 ## EN:
-The GraduateSistem application is a platform where users can socialize and communicate with people from the school they graduated from.  
+The MezunSistem application is a platform where users can socialize and communicate with people from the school they graduated from.  
 In this application, Firestore Database in Firebase Console is used to store data.
 
 Screens and features in the application:  
