@@ -14,6 +14,8 @@ Uygulamada bulunan ekranlar ve özellikleri:
 **8- Kullanıcılar Ekranı:** Platforma üye olan kullanıcıların listelendiği ekran. Bu ekranda herhangi bir kullanıcının üstüne tıklamanız durumunda o kullanıcının profil sayfasını görüntülemek mümkündür.  
 **9- Şifre Değiştir Ekranı:** Bu ekrandan mevcut şifre, yenisiyle değiştirilebilmektedir.
 
+----
+
 ## EN:
 The MezunSistem application is a platform where users can socialize and communicate with people from the school they graduated from.  
 In this application, Firestore Database in Firebase Console is used to store data.
